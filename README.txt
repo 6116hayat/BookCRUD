@@ -27,7 +27,8 @@ resources/
 ⇒ Spring Data JPA : Database Management
 ⇒ H2 Database : Database Storage
 ⇒ Spring Web : REST API handling
-⇒ Lombok (optional) :  Boilerplate code reduction
+⇒ Lombok (optional) : Boilerplate code reduction
+⇒ Postman : For Running and Testing APIs
 
 ⚙️ Setup & Run
     🧰 Prerequisites
